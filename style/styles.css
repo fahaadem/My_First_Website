@@ -1,0 +1,23 @@
+h1 {
+    background-color:powderblue;
+    text-align: center;
+    border: 10px solid red;
+    border-radius: 10px;
+    margin: auto;
+}
+
+h2{
+    color:rgb(238, 170, 170) ;
+}
+
+h3{
+    color: brown;
+}
+
+li{
+    color: blue;
+}
+
+p{
+    color: red;
+}
